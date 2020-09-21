@@ -130,12 +130,12 @@ GCode Reference: [GCode Reference](https://duet3d.dozuki.com/Wiki/Gcode)
 All steppers use the same micro-stepping setting of 3200 pulse/rev = ×16 μStepping (motors are 200 steps/rev = 1.8° per step), (`SW5, SW6 OFF` `SW7, SW8 ON`)
 The X-Y stepper controllers should have their current settings of 2.8A peak, 2.0A RMS (`SW1, SW2, SW3; ON, SW4 OFF`), this is done to reduce vibrations.
 
-![X-Y Stepper Controllers' settings](images/XY_dip_switches.jpg =x350) XY Motor Controllers.
+<img src='images/XY_dip_switches.jpg' alt='X-Y Stepper Controllers' width=350px> XY Motor Controllers.
 
 The Z stepper controller use 7.8A peak, 5.6A RMS (`SW1, SW2, SW3, SW4, OFF`).
-Z Motor Controller: ![Z Stepper Controller settings](images/Z_dip_switches.jpg =x350)
-![Controller Current Table](images/stepper_current_table.jpg =200x)
-![Controller Stepping Table](images/stepper_stepping_table.jpg =200x)
+Z Motor Controller: 
+
+<img src='images/Z_dip_switches.jpg' alt='Z Stepper Controller settings' width=350px> <img src='images/stepper_current_table.jpg' alt='Controller Current Table' width=200px> <img src='images/stepper_stepping_table.jpg' alt='Controller Stepping Table' width=200px>
 
 ### Duet 2 Ethernet settings
 
