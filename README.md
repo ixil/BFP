@@ -2,6 +2,8 @@
 
 The ETH Zürich's Student Project House's "Bulky but Fabulous Printer" - (BFP)
 
+![front_render](images/front_render.png)
+
 ## TOC
 
 1. [Introduction](#introduction)
@@ -170,7 +172,7 @@ Of course credit also must go to the Student Project House, for funding and prov
 
 Also thanks to those that helped in the design, construction, and assembly of the printer:
 
- - [Andrea Perssinitto](https://github.com/periandr)  - Project Lead
+ - [Andrea Perissinitto](https://github.com/hiiragii)  - Project Lead
  - [Oliver Harley](https://github.com/ixil),
  - Killian Hanke,
  - Max Schäfer
